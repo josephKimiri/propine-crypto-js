@@ -49,3 +49,10 @@ Given a date and a token, the program should return the portfolio value of that 
 4. npm install await
 5. npm install yargs
 6. npm i date-and-time
+
+# collaborators
+
+- Zan(liangzan) - zan@propine.com,
+- Kyle(kyled7)  - kyle.dinh@propine.com, 
+- Thanh(thanhnpp) - thanh.nguyen@propine.com, 
+- Viswanath(viswanathkgp12) - viswanathkapavarapu@propine.com.
