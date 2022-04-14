@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "await": "^0.2.6",
+    "crypto-js": "^4.1.1",
+    "date-and-time": "^2.3.1",
+    "node-fetch": "^3.2.3",
+    "parser": "^0.1.4",
+    "promise": "^8.1.0",
+    "request": "^2.88.2",
+    "tokenizer": "^1.1.2",
+    "yargs": "^17.4.1"
+  }
+}
